@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* Add these to your CSS if not using Tailwind with custom config */
+.bg-brand {
+    background-color: #3b82f6; /* Example brand color */
+}
+.rounded-base {
+    border-radius: 0.5rem;
+}
+.text-heading {
+    color: #1f2937; /* Example heading color */
+}
+.bg-neutral-secondary-soft {
+    background-color: #f3f4f6; /* Example soft background */
+}
+.text-fg-disabled {
+    color: #9ca3af; /* Example disabled color */
+}
