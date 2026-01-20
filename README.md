@@ -72,7 +72,7 @@ Auth: Laravel Breeze
 Deployment: Render
 
 ⚙️ Installation
-git clone https://github.com/your-username/medium-clone.git
+git clone [https://github.com/your-username/medium-clone.git](https://github.com/Ghost94dev/Medium-Clone-Laravel-)
 cd medium-clone
 
 composer install
