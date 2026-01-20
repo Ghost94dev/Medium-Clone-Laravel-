@@ -8,6 +8,7 @@ This project is developed incrementally following a feature roadmap, similar to 
 ✅ Implemented
 
 User authentication (Register / Login / Logout)
+Email verification (required before certain actions)
 
 User profiles
 
@@ -101,6 +102,16 @@ Users can delete their own comments
 Unauthorized actions are blocked
 
 Policies will be introduced later
+
+#✉️ Email Verification
+- Users must verify their email address after registration
+- Verification emails are sent automatically
+- Certain actions require verified email accounts
+
+##Local Development
+- Email testing is handled using **Mailpit**
+- No real emails are sent in development
+
 
 🌍 Live Demo
 
